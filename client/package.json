@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "mqtt client",
+  "main": "client1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakkankanwadi/mqttApp.git"
+  },
+  "keywords": [
+    "mqtt",
+    "node.js"
+  ],
+  "author": "Vinayak Kankanwadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinayakkankanwadi/mqttApp/issues"
+  },
+  "homepage": "https://github.com/vinayakkankanwadi/mqttApp#readme",
+  "dependencies": {
+    "mqtt": "^2.1.3"
+  }
+}
